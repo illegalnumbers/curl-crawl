@@ -1,0 +1,46 @@
+#----------------------------------------------------------------------------
+# Author: Team Amurica (Ben Nelson, Carlos Brennesein, Tucker McKnight, Scott Stromberg)
+# Date: 2/22/11
+#----------------------------------------------------------------------------
+
+
+
+CC              = g++ 
+CFLAGS          = -g -w -Wall -pedantic
+CPPFLAGS        = $(CFLAGS)
+LIBS            = -Icurl/include/ -Lcurl/lib -lcurl
+
+
+################################################################
+# ALL
+#
+# when you run make by itself, this is what it will try to create
+#
+all:crawler
+
+
+################################################################
+#
+# Dependencies
+#
+
+<<<<<<< .mine
+crawler: Crawler.C Crawler.h Utilities.C Domain.C Domain.h Graph.C Graph.h Link.C Link.h HashTable.C HashTable.h LinkedList.C LinkedList.h LL_Node.C LL_Node.h Webpage.c Webpage.h Dictionary.C Dictionary.h
+	$(CC)  $(CFLAGS) $(LIBS) -o $@ Crawler.C Crawler.h Utilities.C Domain.C Domain.h Graph.C Graph.h Link.C Link.h HashTable.C HashTable.h LinkedList.C LinkedList.h LL_Node.C LL_Node.h Webpage.c Webpage.h # make sure there is a TAB at the start of this line, right after the @ before Crawler.C is where main() should be placed.
+Crawler.o : Crawler.C Crawler.h
+Utilities.o : Utilities.C
+Domain.o : Domain.C Domain.h
+Graph.o : Graph.C Graph.h
+Link.o : Link.C Link.h
+Webpage.o : Webpage.c Webpage.h
+LinkedList.o : LinkedList.C LinkedList.h
+LL_Node.o : LL_Node.C LL_Node.h
+Dictionary.o : Dictionary.C Dictionary.h
+=======
+crawler: Crawler.C Crawler.h Domain.C Domain.h Graph.C Graph.h Link.C Link.h HashTable.C HashTable.h LinkedList.C LinkedList.h LL_Node.C LL_Node.h Dictionary.C Dictionary.h Webpage.c Webpage.h
+>>>>>>> .r156
+
+	$(CC) $(CFLAGS) $(LIBS) -o $@ Crawler.C Crawler.h Domain.C Domain.h Graph.C Graph.h Link.C Link.h HashTable.C HashTable.h LinkedList.C LinkedList.h LL_Node.C LL_Node.h Dictionary.C Dictionary.h Webpage.c Webpage.h
+
+clean:
+	rm -f *.o crawler

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/school/!svn/ver/108/ps3/curl/include/curl
+END
+stdcheaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/school/!svn/ver/108/ps3/curl/include/curl/stdcheaders.h
+END
+typecheck-gcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/school/!svn/ver/108/ps3/curl/include/curl/typecheck-gcc.h
+END
+multi.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/school/!svn/ver/108/ps3/curl/include/curl/multi.h
+END
+mprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/school/!svn/ver/108/ps3/curl/include/curl/mprintf.h
+END
+curlrules.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/school/!svn/ver/108/ps3/curl/include/curl/curlrules.h
+END
+easy.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/school/!svn/ver/108/ps3/curl/include/curl/easy.h
+END
+curlver.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/school/!svn/ver/108/ps3/curl/include/curl/curlver.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/school/!svn/ver/108/ps3/curl/include/curl/types.h
+END
+curl.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/school/!svn/ver/108/ps3/curl/include/curl/curl.h
+END
+curlbuild.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/school/!svn/ver/108/ps3/curl/include/curl/curlbuild.h
+END

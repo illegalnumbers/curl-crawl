@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3
+END
+curl_multi_assign.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_multi_assign.3
+END
+curl_easy_setopt.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_easy_setopt.3
+END
+curl_escape.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_escape.3
+END
+curl_multi_socket.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_multi_socket.3
+END
+curl_formget.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_formget.3
+END
+curl_easy_strerror.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_easy_strerror.3
+END
+curl_unescape.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_unescape.3
+END
+curl_formfree.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_formfree.3
+END
+libcurl-easy.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/libcurl-easy.3
+END
+curl_global_cleanup.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_global_cleanup.3
+END
+libcurl.3
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/libcurl.3
+END
+curl_easy_send.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_easy_send.3
+END
+curl_formadd.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_formadd.3
+END
+curl_multi_init.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_multi_init.3
+END
+curl_mprintf.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_mprintf.3
+END
+curl_easy_recv.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_easy_recv.3
+END
+curl_global_init_mem.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_global_init_mem.3
+END
+curl_free.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_free.3
+END
+libcurl-errors.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/libcurl-errors.3
+END
+curl_multi_perform.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_multi_perform.3
+END
+curl_easy_duphandle.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_easy_duphandle.3
+END
+curl_share_init.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_share_init.3
+END
+curl_version.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_version.3
+END
+curl_slist_free_all.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_slist_free_all.3
+END
+curl_multi_setopt.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_multi_setopt.3
+END
+curl_easy_perform.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_easy_perform.3
+END
+curl_multi_strerror.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_multi_strerror.3
+END
+curl_easy_pause.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_easy_pause.3
+END
+curl_multi_socket_action.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_multi_socket_action.3
+END
+libcurl-multi.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/libcurl-multi.3
+END
+curl_multi_info_read.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_multi_info_read.3
+END
+curl_multi_timeout.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_multi_timeout.3
+END
+curl_share_setopt.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_share_setopt.3
+END
+curl_strequal.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_strequal.3
+END
+curl_version_info.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_version_info.3
+END
+curl_multi_cleanup.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_multi_cleanup.3
+END
+curl_easy_reset.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_easy_reset.3
+END
+curl_share_strerror.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_share_strerror.3
+END
+libcurl-share.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/libcurl-share.3
+END
+curl_easy_cleanup.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_easy_cleanup.3
+END
+libcurl-tutorial.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/libcurl-tutorial.3
+END
+curl_share_cleanup.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_share_cleanup.3
+END
+curl_easy_getinfo.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_easy_getinfo.3
+END
+curl_multi_add_handle.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_multi_add_handle.3
+END
+curl_getdate.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_getdate.3
+END
+curl_multi_fdset.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_multi_fdset.3
+END
+curl_easy_escape.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_easy_escape.3
+END
+curl_multi_remove_handle.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_multi_remove_handle.3
+END
+curl_global_init.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_global_init.3
+END
+curl_easy_init.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_easy_init.3
+END
+curl_easy_unescape.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_easy_unescape.3
+END
+curl_slist_append.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_slist_append.3
+END
+curl_getenv.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/school/!svn/ver/108/ps3/curl/share/man/man3/curl_getenv.3
+END

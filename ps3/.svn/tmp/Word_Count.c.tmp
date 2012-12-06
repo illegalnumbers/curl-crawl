@@ -1,0 +1,110 @@
+#include "Word_Count.h"
+
+void Word_Count::add_word(string word)
+{
+  words->add(word);
+}
+
+
+int Word_Count::get_word_count(string word)
+{
+  //  int count = words.getWordCount(word);
+  int count = 0; //temp fix
+  return count;
+}
+
+<<<<<<< .mine
+=======
+/*
+ *Get Words and Count method
+ *
+ *Uses pass by reference to return all the words used and the amount of times each one was used in the form of two vectors
+ */
+
+void Word_Count::getWordsAndCount(vector<string> &wordlist, vector<int>&counts)
+{
+  for(int i=0; i <words.size;i++)//iterates through hash table
+  {
+    if(words.table[i]!=NULL)//checks to see if there is a linked list at this spot
+      {
+	words.table[i]->goToFront(); //makes sure that you start at the beginning of the list
+	for(int j=0; j<words.table[i]->getSize();j++)//iterates through linked list
+	  {
+	    wordlist.push_back(words.table[i]->getCurrent());//puts the current word in 'wordlist'
+	    counts.push_back(get_word_count(words.table[i]->getCurrent()));//gets the amount of times the word is used and puts it in 'counts'
+	    words.table[i]->goNext();//moves the current node
+	  }
+      }
+  }
+}
+>>>>>>> .r164
+
+<<<<<<< .mine
+=======
+/*
+ *get_top_words method
+ *
+ *  Uses pass by reference to return the most used words and as well as the amount of times they have been used
+ *  word_list will contain the top words
+ *  counts will contain the amount of times each word has been used (will line up with the word_list vector)
+ *  count is the number of top words to return
+ *
+ 
+>>>>>>> .r164
+void Word_Count::get_top_words(vector<string> &word_list, vector<int> &counts, int count)
+{
+  bool run = true;
+  int i = 0;
+  int marker;
+  while(run)
+    {
+      if(words->table[i] != NULL)
+	{
+	  words->table[i]->goToFront();
+	  marker = 0;
+	  for(int k = 0; k < words->table[i]->getSize(); k++)
+	    {
+	      word_list.push_back(words->table[i]->getCurrent());
+	      counts.push_back(get_word_count(words->table[i]->getCurrent()));
+	      if(counts.size() == count)
+		{
+		  run = false;
+
+		}
+	      words->table[i]->goNext();
+	      marker++;
+	    }
+	}
+      i++;
+    }
+  i--;
+  words->table[i]->goPrevious();
+  for ( ;i< words->size; i++)
+    {
+      if(words->table[i] != NULL)
+	{
+	  words->table[i]->goToFront();
+	  for(int l = 0; l < marker; l++)
+	    {
+	      words->table[i]->goNext();
+	    }
+
+	  marker = 0;
+	  for(int k = 0; k < words->table[i]->getSize(); k++)
+	    {
+	      for(int z = 0; z < counts.size(); z++)
+		{
+		  if(get_word_count(words->table[i]->getCurrent()) > counts[z])
+		    {
+		      word_list.erase(word_list.begin()+z);
+		      counts.erase(counts.begin()+z);
+		      word_list.push_back(words->table[i]->getCurrent());
+		      counts.push_back(get_word_count(words->table[i]->getCurrent()));
+		    }
+		  words->table[i]->goNext();
+		}
+	    }
+	}
+    }
+}
+*/
